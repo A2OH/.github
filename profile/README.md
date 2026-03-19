@@ -1,4 +1,4 @@
-> [🇨🇳 中文版 / Chinese Version](https://github.com/A2OH/.github/blob/main/profile/README_CN.md)
+**[English](README.md)** | **[中文](README_CN.md)**
 
 # A2OH — Android to OpenHarmony
 
