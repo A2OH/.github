@@ -45,6 +45,10 @@ The main project. Marries Dalvik VM + OHOS platform to run Android APKs on OpenH
 
 ### [dalvik-universal](https://github.com/A2OH/dalvik-universal) — Dalvik VM for Modern Platforms
 
+### [art-universal](https://github.com/A2OH/art-universal) — ART Runtime Port (10-50x faster)
+
+Port the Android Runtime (ART) to modern platforms. 623K lines C++, Apache 2.0, own compiler backend (no LLVM). Three strategies: ART interpreter (3-5x, 2 months), dex2oat AOT (10-50x, 3 months), full JIT (10-50x, 6 months).
+
 KitKat Dalvik VM ported to run on any modern Linux platform, not just Android.
 
 - **x86_64 Linux**: Hello World, MockDonalds 14/14, real APK execution
